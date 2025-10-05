@@ -4,7 +4,7 @@ Um projeto de carrossel de personagens inspirado na série X-Men, desenvolvido c
 
 O objetivo deste projeto foi praticar e consolidar conhecimentos em tecnologias web fundamentais, criando uma interface interativa e responsiva.
 
-
+![Projeto X-Devs](Projeto%20X-Devs.png)
 
 ---
 
